@@ -30,7 +30,7 @@ header nav {
 }
 
 header nav:nth-child(7) {
-    /* f[loat: right; */
+    
     margin-right: 30px;
     padding-right: 0px;
     background-color: black;
@@ -132,7 +132,7 @@ h1{
 }
 footer{
     text-align: center;
-    /* clear: both; */
+    
     align-items: center;
     border:1px solid #ccc;
     color: grey;
